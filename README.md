@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thyanmol
-- 👀 I’m interested in Software Development (Specially Full Stack Development)
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MEAN Stack
 - 📫 How to reach me anmoljain232606@gmail.com
 
