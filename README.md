@@ -3,7 +3,7 @@
 A little more about me...  
 
 ```javascript
-const anmol = {
+let anmol = {
     code: ["Javascript", "Typescript", "Java", "C++", "HTML/CSS"],
     askMeAbout: ["full stack dev", "tech", "app dev", "photography", "musical instruments"],
     technologies: {
