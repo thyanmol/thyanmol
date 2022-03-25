@@ -22,7 +22,10 @@ const anmol = {
 };
 ```
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thyanmol&show_icons=true&locale=en)  ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=thyanmol&) 
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=thyanmol&show_icons=true&locale=en)  ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=thyanmol&)  -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thyanmol&repo=react-pixelate)](https://github.com/tonynguyenit18/react-pixelate)
+
 
 <h3>Lets Connect</h3>
 
