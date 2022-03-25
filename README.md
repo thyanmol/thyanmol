@@ -4,7 +4,7 @@
 - 📫 Reach me anmoljain232606@gmail.com
 
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/thyanmol">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyanmol&layout=compact" />
 </a>
 
