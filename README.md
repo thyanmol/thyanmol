@@ -1,4 +1,4 @@
-<h2> Hey🏻, I'm Anmol Jain!</h2>
+<h2> Hey, I'm Anmol Jain!</h2>
 
 A little more about me...  
 
