@@ -1,14 +1,29 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Jain!</h2>
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thy_anmol/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/thyanmol?label=Follow&style=social)
+
+A little more about me...  
+
+```javascript
+const anmol = {
+    code: ["Javascript", "Typescript", "Java", "C++", "HTML/CSS"],
+    askMeAbout: ["full stack dev", "tech", "app dev", "photography", "musical instruments],
+    technologies: {
+        mobileApp: ["Android"],
+        frontEnd: {
+            js: ["Angular"],
+            css: ["material", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "nest js"],
+            java: ["springboot"]
+        },
+        devOps: ["Git", "Docker", "ELK stack", "Jenkins"],
+        databases: ["mongo", "MySql"]
+    }
+};
+```
 
 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MEAN Stack and SpringBoot.
-- 📫 Reach me anmoljain232606@gmail.com
-
-
-<a href="https://github.com/thyanmol">
+<a href="https://github.com/thyanmol" style="margin-left : 3rem">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyanmol&layout=compact" />
 </a>
 
