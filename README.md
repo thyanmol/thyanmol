@@ -22,9 +22,6 @@ const anmol = {
 };
 ```
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyanmol-tn&layout=compact&show_icon=true&theme=algolia"/>>
-
-
 <h3>Lets Connect</h3>
 
 <a href="https://www.linkedin.com/in/thyanmol/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
