@@ -5,7 +5,7 @@ A little more about me...
 ```javascript
 const anmol = {
     code: ["Javascript", "Typescript", "Java", "C++", "HTML/CSS"],
-    askMeAbout: ["full stack dev", "tech", "app dev", "photography", "musical instruments],
+    askMeAbout: ["full stack dev", "tech", "app dev", "photography", "musical instruments"],
     technologies: {
         mobileApp: ["Android"],
         frontEnd: {
@@ -21,11 +21,6 @@ const anmol = {
     }
 };
 ```
-
-
-<a href="https://github.com/thyanmol" style="margin-left : 3rem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyanmol&layout=compact" />
-</a>
 
 <!---
 thyanmol/thyanmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
